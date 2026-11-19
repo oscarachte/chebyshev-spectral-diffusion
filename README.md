@@ -36,8 +36,8 @@ Varying $\alpha$ allows the study of the relationship between regularity and num
 2. Evaluate the Chebyshev basis and its second derivatives.
 3. Assemble the collocation system and impose Dirichlet boundary conditions.
 4. Solve the linear system in MATLAB.
-5. Compare the approximation with the exact solution on a fine grid and estimate the \(L^2\) error.
-6. Plot convergence curves and solution comparisons for several values of \(\alpha\).
+5. Compare the approximation with the exact solution on a fine grid and estimate the \($L^2$\) error.
+6. Plot convergence curves and solution comparisons for several values of \($\alpha$\).
 
 ## Findings
 
