@@ -42,7 +42,7 @@ The report finds agreement between numerical and analytical solutions and observ
 
 The script is designed to save `convergence_L2.png` and `solutions_comparison.png` when run with the required dependencies.
 
-### Project Team 
+## Project Team 
 
 Developed at EPFL as part of a four-person team: Oscar Achte, Justin Rozzio, Jules Van Cauwenberghe, and Titouan Vaganay.
 
