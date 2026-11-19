@@ -41,7 +41,7 @@ Varying $\alpha$ allows the study of the relationship between regularity and num
 
 ## Findings
 
-The report finds agreement between numerical and analytical solutions and observes convergence consistent with the supplied regularity-based estimate. For the tested cases, the spectral method becomes especially advantageous relative to a second-order finite-difference approach for smoother solutions (notably \(\alpha\geq4\)).
+The report finds agreement between numerical and analytical solutions and observes convergence consistent with the supplied regularity-based estimate. For the tested cases, the spectral method becomes especially advantageous relative to a second-order finite-difference approach for smoother solutions (notably \($\alpha\geq4$\)).
 
 ## Repository contents
 
