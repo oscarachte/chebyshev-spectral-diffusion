@@ -42,10 +42,7 @@ The report finds agreement between numerical and analytical solutions and observ
 
 The script is designed to save `convergence_L2.png` and `solutions_comparison.png` when run with the required dependencies.
 
-## Academic context and attribution
+### Project Team 
 
-Developed as a **four-person group project** at EPFL. The original script credits Oscar Achte, Justin Rozzio, Jules Van Cauwenberghe, and Titouan Vaganay. Individual contributions are not assigned because the division of work is no longer documented.
+Developed at EPFL as part of a four-person team: Oscar Achte, Justin Rozzio, Jules Van Cauwenberghe, and Titouan Vaganay.
 
-The original report is not included in this public-ready package because it contains student identifiers and was prepared collaboratively. It can be added later after reviewing privacy and co-author sharing permissions.
-
-**Topics:** numerical methods · spectral collocation · diffusion equations · convergence analysis · MATLAB
