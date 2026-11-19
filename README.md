@@ -55,5 +55,5 @@ The script is designed to save `convergence_L2.png` and `solutions_comparison.pn
 
 ## Project Team 
 
-Developed at EPFL as part of a four-person team: Oscar Achte, Justin Rozzio, Jules Van Cauwenberghe, and Titouan Vaganay.
+Developed at EPFL as part of a four-person team: Oscar Achte, Justin Rozzio, Jules Van Cauwenberghe, and Titouan Vaganay. Report not publicly available. 
 
