@@ -11,13 +11,24 @@ This project investigates a **Chebyshev spectral collocation method** for solvin
 
 We solve
 
-\[u''(x)=f(x),\qquad x\in(0,1),\]
+$$
+u''(x)=f(x), \qquad x\in(0,1).
+$$
 
-with Dirichlet conditions \(u(0)=0\) and \(u(1)=(1/2)^\alpha\). The reference solution is piecewise:
+with Dirichlet boundary conditions $u(0)=0$ and $u(1)=(1/2)^\alpha$.
 
-\[u(x)=\begin{cases}0,&x\leq 1/2,\\(x-1/2)^\alpha,&x>1/2,\end{cases}\qquad \alpha\in\{2,3,4,5\}.\]
+The reference solution is piecewise:
 
-Varying \(\alpha\) allows the study of the relationship between regularity and numerical convergence.
+$$
+u(x)=
+\begin{cases}
+0, & x\leq 1/2,\\
+(x-1/2)^\alpha, & x>1/2.
+\end{cases}
+\qquad \alpha\in\{2,3,4,5\}.
+$$
+
+Varying $\alpha$ allows the study of the relationship between regularity and numerical convergence.
 
 ## Numerical approach
 
